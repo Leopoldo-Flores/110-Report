@@ -1,0 +1,5 @@
+#!/bin/bash
+#sudo chmod u+x runserver <- use this to assign
+export FLASK_APP=server.py
+export FLASK_ENV=development
+flask run
