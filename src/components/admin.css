@@ -1,0 +1,15 @@
+.admin-page {
+    height: auto;
+}
+
+.admin-page .my-control label{
+    display: inline-block;
+    width: 80px;
+    text-align:right;
+    margin-right: 7px;
+}
+
+.admin-page .my-control input {
+    display: inline-block;
+    width: 230px;
+}

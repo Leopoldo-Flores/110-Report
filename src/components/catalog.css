@@ -1,0 +1,12 @@
+.catalog-page{
+    padding-top: 30px;    
+    background-image: url(/src/back.jpg);
+    background-size:cover;
+    background-color: #618bff;
+    text-emphasis-color: white;
+}
+
+h3{
+    color: white;
+}
+

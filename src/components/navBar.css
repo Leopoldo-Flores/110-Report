@@ -1,0 +1,22 @@
+
+.navbar-page{
+    border: 1px solid rgb(0, 0, 0);
+    background-color:lightgray;
+}
+
+.navbar-page h6{
+    color:rgb(0, 0, 0);
+}
+
+.navbar-page button{
+    color: red;
+}
+
+.navbar-page .label-test{
+    font-weight: bolder;
+}
+.navbar-brand{
+    font-size: larger;
+    color:red;
+}
+
